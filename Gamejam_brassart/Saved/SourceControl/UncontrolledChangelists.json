@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/ThirdPerson/Blendspace/BS_1H-Player.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/ThirdPerson/Blueprints/Satuscomponent.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/ThirdPerson/Blueprints/Satus_component.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/ThirdPerson/Widget/UI_playerCombat.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/ThirdPerson/Blueprints/Status_component.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/ThirdPerson/Blueprints/E_PlayerState.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/Input/IMC_Default.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/ThirdPerson/ABP_ThirdPerson.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/Input/Actions/IA_Run_Roll_Avoid.uasset",
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/ThirdPerson/BlendSpace/BS_1H_Player.uasset",
 				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV.uasset",
 				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI.uasset",
 				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD.uasset",
@@ -21,8 +33,7 @@
 				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/JR/W7S9610Y7RWELGF93FZYAE.uasset",
 				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/HX/PES0ONLF01PSQTJCC5USD2.uasset",
 				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/8N/4L4W0MLV9WFUGRTMUBLBOP.uasset",
-				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6.uasset",
-				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset"
+				"C:/Users/zakka/Documents/GitHub/Gamejam-Brassart/Gamejam_brassart/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6.uasset"
 			]
 		}
 	]
