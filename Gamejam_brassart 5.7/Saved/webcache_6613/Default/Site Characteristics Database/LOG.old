@@ -1,2 +1,5 @@
-2026/02/02-14:50:17.573 162c Creating DB C:\Users\Izak\Documents\GitHub\Gamejam-Brassart\Gamejam_brassart 5.7\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
-2026/02/02-14:50:17.583 162c Reusing MANIFEST C:\Users\Izak\Documents\GitHub\Gamejam-Brassart\Gamejam_brassart 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/02/02-16:23:42.813 2f10 Log #3: 2 ops saved to Table #4 OK
+2026/02/02-16:23:42.815 2f10 Archiving C:\Users\Izak\Documents\GitHub\Gamejam-Brassart\Gamejam_brassart 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/02/02-16:23:42.815 2f10 Table #4: 2 entries OK
+2026/02/02-16:23:42.816 2f10 Archiving C:\Users\Izak\Documents\GitHub\Gamejam-Brassart\Gamejam_brassart 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/02/02-16:23:42.820 2f10 **** Repaired leveldb C:\Users\Izak\Documents\GitHub\Gamejam-Brassart\Gamejam_brassart 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
